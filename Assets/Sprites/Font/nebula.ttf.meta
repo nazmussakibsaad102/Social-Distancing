@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: de1e00adfcf95e24c9d2655a2a2daeda
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nebula
+  fontNames:
+  - Nebula
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 92358bb7ce982b04493fc55cc40e3351, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
